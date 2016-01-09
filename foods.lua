@@ -1,11 +1,5 @@
 -- the comment below shows the original way to make food
 --[[
-minetest.register_craftitem('random_cool_stuff:raw_kebab', {
-	description = 'raw indonesion food',
-	inventory_image = 'random_raw_kebab.png',
-	on_use = minetest.item_eat(2)
-})
-
 minetest.register_craftitem('random_cool_stuff:cooked_kebab', {
 	description = 'still looks disgusting',
 	inventory_image = 'random_cooked_kebab.png',
@@ -16,13 +10,9 @@ minetest.register_craftitem('random_cool_stuff:cooked_kebab', {
 
 --[[ 
 creates a table called food table
-the first thing, as defined in for i in ipairs function is what we craft
-the seconds thing is the description
-the third thing is the inventory image, does not need .png but lets add it for clarification
-if you want dont add an inventory image
-the 4th thing is the amount of health you get after eating it
-you can create tables like these for other things too...
-like fuel recipes, cooking
+local creates local variables to be used in that table
+original functions such as 'description' will not work, you will have to rename them, such as to 'desc'
+it needs to have the i in ipairs so it has the index of information, 
 use this method because it is more efficent
 ]]--
 

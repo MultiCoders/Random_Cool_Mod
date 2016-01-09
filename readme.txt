@@ -14,6 +14,7 @@ Tutorial within the code
 Config.txt to make code editable easily :)
 poo block and poo lump(wtf)
 salt stuffz
+Optimization
 
 TODO:
 
@@ -22,4 +23,3 @@ Add (if possible) maple tree
 Add maple Syrup which you can get by right clicking a tool knife on a tree
 When you break beds you get 2 sticks 2 wood and 2 wool
 Give use  to salt
-Optimization

@@ -1,0 +1,5 @@
+-- make it so that you can craft the admin sword
+admin_craft = false
+
+-- make the world into wool!
+wool_world = false

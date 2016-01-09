@@ -7,7 +7,6 @@ cotton, sticks, wool and charcoal for fuel
 charcoal
 Kebab (raw and cooked) (craftable and cookable)
 1/20 chance to find gravel when breaking dirt (I think)
-Barrels (very buggy)
 Cotton with grass
 Admin sword
 Leafy Bed - (gives you a rash!) 
@@ -18,8 +17,6 @@ salt stuffz
 
 TODO:
 
-Bags (backpacks)
-Barrels  (its realeased but needs some MAJOR debugging!)
 ADD BAMBOO!!!!! (Bamboo stick/sword is reccomended for training, or whipping your children ]:-)
 Add (if possible) maple tree
 Add maple Syrup which you can get by right clicking a tool knife on a tree
